@@ -88,6 +88,48 @@ Every Minute (2018):
 
 #### Cybersecurity - A Security Architect's Perspective
 
+**Confidentiality**
+* only the sender and intended receiver should understand message contents
+* sender encrypts, receiver decrypts
+
+**Authentication**
+* sender/receiver want to confirm identity of other
+
+**Message Integrity**
+* sender/receiver want to ensure that the message is unaltered in transit or afterwards without detection
+
+**Access and Availability**
+* services must be accessible and available to users
+
+*The art of war teaches us to rely not on the likelihood of the enemy's not coming, but on our own readiness to receive him; not on the chance of his not attacking, but rather on the fact that we have made or position unassailable*
+     **-- The Art of War, Sun Tzu**
+	 
+*The combination of space, time, and strength that must be considered as the basic elements of this theory of defense makes this a fairly complicated matter. Consequently, it is not easy to find a fixed point of departure.*
+	**-- On War, Carl Von Clausewitz**
+	
+![Friends and enemies](images/05_Friends_Enemies.png)
+
+* client-server relationship
+* DNS servers
+* routers exchanging ip tables
+* firewalls communicating with security intelligence systems
+
+**Computer Security defined by NIST**
+* the protection afforded to an automated information system in order to attain the applicable objectives of preserving the integrity, availability, and confidentiality of information system resources which includes hardware, software, firmware, information/data, and telecommunications.
+
+**Computer Security Challenges**
+* Security is not as simple as it seems
+	* easy requirements, hard solutions
+* Security policy enforcement structures can be targets of attack
+* Protecting enforcement structures can complicate solutions further
+* Where do we deploy security solutions?
+* Cryptographic key management is hard
+* Protectors have to be right every time, attackers just once
+* No one likes security until it is needed (seatbelt philosophy)
+* Security is often viewed as something that is a barrier, in-the-way of doing business
+* Security is often not part of early application development, not "baked in"
+* Security needs to be agile
+
 #### What is Critical Thinking?
 
 #### Top Cybersecurity Organizations you will want to explore
