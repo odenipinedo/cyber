@@ -15,7 +15,7 @@
 
 by 2022, there will be 1.8 million unfulfilled cybersecurity jobs
 
-[SME List](pdf/Your-IBM-Subject-Matter-Experts--Intro-to-Cybersecurity-tools.pdf)
+[SME List (PDF)](pdf/Your-IBM-Subject-Matter-Experts--Intro-to-Cybersecurity-tools.pdf)
 
 ####What are We Talking about when We Talk about Cybersecurity?
 
@@ -33,8 +33,6 @@ Other Key terms:
 * **Threat** - an event, natural or manmade, able to cause negative impact to an organization.
 * **Exploit** - a way to breach the security of an IT system through a vulnerability.
 * **Risk** - probability of an event involving exposure to danger.
-
-Security Threats:
 
 ![](images/01_Security_Threats.png)
 
